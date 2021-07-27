@@ -1,4 +1,4 @@
-package main
+package roadiescript
 
 import (
 	"context"
